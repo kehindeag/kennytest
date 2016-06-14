@@ -1,2 +1,4 @@
 i am working on my git i have made first commit and i want to edit this file for second commit and do a lot stuff with my bit
 fun fun fun
+
+New code added
